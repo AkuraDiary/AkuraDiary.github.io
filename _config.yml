@@ -10,6 +10,10 @@ description:  Description coming soon
 show_excerpts: true # set to false to remove excerpts on the homepage
 #theme: jekyll-theme-minimal
 
+# social links
+
+github_username:  AkuraDiary # DO NOT include the @ character, or else the build will fail!
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
