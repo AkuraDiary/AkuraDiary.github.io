@@ -1,4 +1,6 @@
-## Welcome to my GitHub Pages
+---
+title: "Welcome to my GitHub Portfolio pages (hopefully)"
+---
 
 <!--head-->
 <h1>Hello There</h1>
