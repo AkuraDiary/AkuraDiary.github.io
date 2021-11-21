@@ -3,21 +3,51 @@ title: "Welcome to my GitHub Portfolio pages (hopefully)"
 ---
 
 <!--head-->
-<h1>Hello There</h1>
-<!--head-->
 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+# Hello There 
+<img src="https://github.com/AkuraDiary.png"></img> 
+> read my bio while [listening to this](https://www.youtube.com/watch?v=mIZOc4ntWSE)
+
+<!--BIO-->
+My name is `Asthi Seta`. I’m `17 years old`. My house is in `East Java, Indonesia`, 
+
+I'm a `student at Telkom Malang Vocational High School`, I don’t smoke. I’m in bed by 11 PM, and make sure I get eight hours of sleep, no matter what. After having a glass of warm milk and doing about twenty minutes of stretches before going to bed, I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning.
+
+I was told there were no issues at my last check-up. I’m trying to explain that `I’m a person who wishes to live a very quiet life`. I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. That is how I deal with society, and `I know that is what brings me happiness`. Although, if I were to fight I wouldn’t lose to anyone.
+<!--BIO-->
+
+> if u know the reference, congrats
+
+<!--trap-->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!--head-->
+
+# Projects overview
+> latest
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=Dulin&theme=github_dark)](https://github.com/raviolini/Dulin)
+
+> fav
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Latihan-Android&theme=github_dark)](https://github.com/AkuraDiary/Latihan-Android)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=KertasBatuGunting&theme=github_dark)](https://github.com/AkuraDiary/KertasBatuGunting)
+
+# Statistic overview
 <!--statistic-->
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=github_dark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight_duo" alt="mystreak"/>
+<!--statistic-->
+<!--trap-->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!--head-->
+
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight_duo" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=github_dark&layout=compact)
 
 [![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkuraDiary&theme=react-dark)](AkuraDiary)
-
-<!--trap-->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=AkuraDiary&theme=darkhub" />
@@ -25,6 +55,7 @@ title: "Welcome to my GitHub Portfolio pages (hopefully)"
 <!--statistic-->
 
 <!--
+
 You can use the [editor on GitHub](https://github.com/AkuraDiary/AkuraDiary.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
