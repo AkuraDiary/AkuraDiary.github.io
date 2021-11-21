@@ -9,7 +9,7 @@ title: "Welcome to my GitHub Portfolio pages (hopefully)"
 
 # Hello There 
 <img src="https://github.com/AkuraDiary.png">
-> read my bio while [listening to this](https://www.youtube.com/watch?v=mIZOc4ntWSE)
+> i suggest to read my bio while [listening to this](https://www.youtube.com/watch?v=mIZOc4ntWSE)
 
 <!--BIO-->
 My name is `Asthi Seta`. I’m `17 years old`. My house is in `East Java, Indonesia`, 
