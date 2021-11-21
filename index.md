@@ -8,7 +8,7 @@ title: "Welcome to my GitHub Portfolio pages (hopefully)"
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # Hello There 
-<img src="https://github.com/AkuraDiary.png"></img> 
+<img src="https://github.com/AkuraDiary.png">
 > read my bio while [listening to this](https://www.youtube.com/watch?v=mIZOc4ntWSE)
 
 <!--BIO-->
