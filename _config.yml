@@ -16,8 +16,8 @@ github_username:  AkuraDiary # DO NOT include the @ character, or else the build
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  About Me: "about me"
+#navbar-links:
+  #About Me: "about me"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -27,7 +27,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://avatars.githubusercontent.com/u/68726268?v=4"
+avatar: https://avatars.githubusercontent.com/u/68726268?v=4
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -41,11 +41,11 @@ round-avatar: true
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "asthiseta@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#social-network-links:
+  #email: "asthiseta@gmail.com"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: AkuraDiary
+  #github: AkuraDiary
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
