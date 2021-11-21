@@ -13,6 +13,7 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 # social links
 
 github_username:  AkuraDiary # DO NOT include the @ character, or else the build will fail!
+instagram_username: asthi_21_
 
 # --- List of links in the navigation bar --- #
 
