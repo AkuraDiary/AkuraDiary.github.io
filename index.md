@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Pages
 
 <!--head-->
-<h1>Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1>Hello There</h1>
 <!--head-->
 
 <!--statistic-->
