@@ -26,15 +26,10 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 <!--head-->
 
 # Projects overview
-> latest
+> latest project with my friends
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=Dulin&theme=github_dark)](https://github.com/raviolini/Dulin)
-
-> fav
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Latihan-Android&theme=github_dark)](https://github.com/AkuraDiary/Latihan-Android)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=KertasBatuGunting&theme=github_dark)](https://github.com/AkuraDiary/KertasBatuGunting)
 
 # Statistic overview
 <!--statistic-->
