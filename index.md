@@ -40,6 +40,7 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 <!--head-->
 
 [projects](projects.md)
+
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight_duo" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=github_dark&layout=compact)
 
