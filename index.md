@@ -39,6 +39,7 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!--head-->
 
+[projects](projects.md)
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight_duo" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=github_dark&layout=compact)
 
